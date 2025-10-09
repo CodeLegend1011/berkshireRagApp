@@ -10,7 +10,7 @@ dotenv.config();
 const API_KEY = process.env.GOOGLE_GENERATIVE_AI_API_KEY;
 const API_BASE = process.env.GEMINI_API_BASE || "https://generativelanguage.googleapis.com/v1beta";
 const DEFAULT_EMBED_MODEL = process.env.DEFAULT_EMBED_MODEL || "text-embedding-004";
-const DEFAULT_GEN_MODEL = process.env.DEFAULT_GEN_MODEL || "gemini-2.0-flash-exp";
+const DEFAULT_GEN_MODEL = process.env.DEFAULT_GEN_MODEL || "gemini-2.5-flash";
 
 if (!API_KEY) {
     throw new Error("GOOGLE_GENERATIVE_AI_API_KEY not set in environment");

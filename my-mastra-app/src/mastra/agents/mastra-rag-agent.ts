@@ -11,7 +11,7 @@ import { logger } from "../config/mastra";
 export const ragAgent = new Agent({
   id: "rag-agent",
   name: "Berkshire Hathaway Investment Philosophy Agent",
-  model: google("gemini-2.0-flash-exp"), // Using Gemini 2.0 Flash
+  model: google("gemini-2.5-flash"), // Using Gemini 2.0 Flash
   description: 
     "An expert AI assistant specializing in Warren Buffett's investment philosophy " +
     "and Berkshire Hathaway's business strategy. Answers questions using shareholder letters from 2019-2024.",
