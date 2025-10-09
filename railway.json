@@ -1,5 +1,0 @@
-{
-  "language": "Node",
-  "start": "npm run start",
-  "install": "npm install --legacy-peer-deps"
-}
