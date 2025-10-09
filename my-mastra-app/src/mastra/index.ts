@@ -31,7 +31,7 @@ const ragWorkflow = createWorkflow({
 ragWorkflow.commit();
 
 // ---------------------------
-// Mastra instance
+// Mastra instance with Admin UI
 // ---------------------------
 export const mastra = new Mastra({
   agents: { "rag-agent": ragAgent },
