@@ -1,0 +1,50 @@
+{
+  "name": "my-mastra-app",
+  "version": "1.0.0",
+  "description": "RAG system using Mastra, Postgres+pgvector, and Google Gemini for Warren Buffett letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev src/mastra.ts",
+    "build": "mastra build",
+    "start": "mastra start src/mastra.ts",
+    "parse-pdfs": "tsx src/scripts/parse-pdfs.ts",
+    "chunk-docs": "tsx src/scripts/chunk-documents.ts",
+    "ingest": "tsx src/scripts/ingest-embeddings.ts",
+    "setup-data": "npm run parse-pdfs && npm run chunk-docs && npm run ingest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.17",
+    "@ai-sdk/openai": "^2.0.45",
+    "@google/generative-ai": "^0.24.1",
+    "@mastra/core": "^0.20.1",
+    "@mastra/libsql": "^0.15.1",
+    "@mastra/loggers": "^0.10.15",
+    "@mastra/memory": "^0.15.6",
+    "@mastra/pg": "^0.17.2",
+    "dotenv": "^17.2.3",
+    "fs-extra": "^11.3.2",
+    "openai": "^6.2.0",
+    "pdf-parse": "^2.2.2",
+    "pg": "^8.16.3",
+    "pgvector": "^0.2.1",
+    "winston": "^3.18.3",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.7.0",
+    "@types/node-fetch": "^2.6.13",
+    "@types/uuid": "^10.0.0",
+    "mastra": "^0.15.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}

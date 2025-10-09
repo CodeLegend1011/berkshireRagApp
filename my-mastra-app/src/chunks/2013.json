@@ -1,0 +1,1834 @@
+[
+  {
+    "text": "Berkshire’s Corporate Performance vs. the S&P 500\nAnnual Percentage Change\nYear\nin Per-Share\nBook Value of\nBerkshire\n(1)\nin S&P 500\nwith Dividends\nIncluded\n(2)\nRelative\nResults\n(1)-(2)\n1965 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23.8 10.0 13.8\n1966 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20.3 (11.7) 32.0\n1967 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 0
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.0 30.9 (19.9)\n1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.0 11.0 8.0\n1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16.2 (8.4) 24.6\n1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.0 3.9 8.1\n1971 . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 1
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16.4 14.6 1.8\n1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21.7 18.9 2.8\n1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.7 (14.8) 19.5\n1974 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 2
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 5.5 (26.4) 31.9\n1975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21.9 37.2 (15.3)\n1976 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59.3 23.6 35.7\n1977 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31.9 (7.4) 39.3\n1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 3
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24.0 6.4 17.6\n1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.7 18.2 17.5\n1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.3 32.3 (13.0)\n1981 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31.4 (5.0) 36.4\n1982 . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 4
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40.0 21.4 18.6\n1983 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32.3 22.4 9.9\n1984 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13.6 6.1 7.5\n1985 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48.2 31.6 16.6\n1986 . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 5
+    }
+  },
+  {
+    "text": ". . . . 48.2 31.6 16.6\n1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26.1 18.6 7.5\n1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.5 5.1 14.4\n1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20.1 16.6 3.5\n1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 6
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . 44.4 31.7 12.7\n1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.4 (3.1) 10.5\n1991 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39.6 30.5 9.1\n1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20.3 7.6 12.7\n1993 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 7
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14.3 10.1 4.2\n1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13.9 1.3 12.6\n1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43.1 37.6 5.5\n1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31.8 23.0 8.8\n1997 . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 8
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34.1 33.4 0.7\n1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48.3 28.6 19.7\n1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.5 21.0 (20.5)\n2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 9
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 6.5 (9.1) 15.6\n2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (6.2) (11.9) 5.7\n2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.0 (22.1) 32.1\n2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21.0 28.7 (7.7)\n2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 10
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.5 10.9 (0.4)\n2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6.4 4.9 1.5\n2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18.4 15.8 2.6\n2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.0 5.5 5.5\n2008 . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 11
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (9.6) (37.0) 27.4\n2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.8 26.5 (6.7)\n2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13.0 15.1 (2.1)\n2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.6 2.1 2.5\n2012 . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 12
+    }
+  },
+  {
+    "text": ". . . . 4.6 2.1 2.5\n2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14.4 16.0 (1.6)\n2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18.2 32.4 (14.2)\nCompounded Annual Gain – 1965-2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.7% 9.8% 9.9\nOverall Gain – 1964-2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 13
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 693,518% 9,841%\nNotes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended\n12/31. Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at\nmarket rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s\nresults through 1978 have been restated to conform to the changed rules.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 14
+    }
+  },
+  {
+    "text": "1978 have been restated to conform to the changed rules. In all other respects, the results are calculated\nusing the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-\ntax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its\nresults would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the\nS&P 500 in years when the index showed a negative return.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 15
+    }
+  },
+  {
+    "text": "500 in years when the index showed a negative return. Over the years, the tax costs would have caused the\naggregate lag to be substantial. 2\n\nBERKSHIRE HATHAWAY INC. To the Shareholders of Berkshire Hathaway Inc.:\nBerkshire’s gain in net worth during 2013 was $34.2 billion. That gain was after our deducting $1.8 billion\nof charges – meaningless economically, as I will explain later – that arose from our purchase of the minority\ninterests in Marmon and Iscar.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 16
+    }
+  },
+  {
+    "text": "from our purchase of the minority\ninterests in Marmon and Iscar. After those charges, the per-share book value of both our Class A and Class B stock\nincreased by 18.2%. Over the last 49 years (that is, since present management took over), book value has grown\nfrom $19 to $134,973, a rate of 19.7% compounded annually.*\nOn the facing page, we show our long-standing performance measurement: The yearly change in\nBerkshire’s per-share book value versus the market performance of the S&P 500.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 17
+    }
+  },
+  {
+    "text": "book value versus the market performance of the S&P 500. What counts, of course, is per-\nshare intrinsic value. But that’s a subjective figure, and book value is useful as a rough tracking indicator. (An\nextended discussion of intrinsic value is included in our Owner-Related Business Principles on pages 103 - 108.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 18
+    }
+  },
+  {
+    "text": "in our Owner-Related Business Principles on pages 103 - 108. Those principles have been included in our reports for 30 years, and we urge new and prospective shareholders to\nread them.)\nAs I’ve long told you, Berkshire’s intrinsic value far exceeds its book value. Moreover, the difference has\nwidened considerably in recent years. That’s why our 2012 decision to authorize the repurchase of shares at 120%\nof book value made sense.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 19
+    }
+  },
+  {
+    "text": "the repurchase of shares at 120%\nof book value made sense. Purchases at that level benefit continuing shareholders because per-share intrinsic value\nexceeds that percentage of book value by a meaningful amount. We did not purchase shares during 2013, however,\nbecause the stock price did not descend to the 120% level. If it does, we will be aggressive.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 20
+    }
+  },
+  {
+    "text": "the 120% level. If it does, we will be aggressive. Charlie Munger, Berkshire’s vice chairman and my partner, and I believe both Berkshire’s book value and\nintrinsic value will outperform the S&P in years when the market is down or moderately up. We expect to fall\nshort, though, in years when the market is strong – as we did in 2013. We have underperformed in ten of our 49\nyears, with all but one of our shortfalls occurring when the S&P gain exceeded 15%.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 21
+    }
+  },
+  {
+    "text": "of our shortfalls occurring when the S&P gain exceeded 15%. Over the stock market cycle between yearends 2007 and 2013, we overperformed the S&P. Through full\ncycles in future years, we expect to do that again. If we fail to do so, we will not have earned our pay. After all, you\ncould always own an index fund and be assured of S&P results. The Year at Berkshire\nOn the operating front, just about everything turned out well for us last year – in certain cases very well.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 22
+    }
+  },
+  {
+    "text": "for us last year – in certain cases very well. Let me count the ways:\nŠ We completed two large acquisitions, spending almost $18 billion to purchase all of NV Energy and a\nmajor interest in H. J. Heinz. Both companies fit us well and will be prospering a century from now. With the Heinz purchase, moreover, we created a partnership template that may be used by Berkshire in\nfuture acquisitions of size. Here, we teamed up with investors at 3G Capital, a firm led by my friend, Jorge\nPaulo Lemann.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 23
+    }
+  },
+  {
+    "text": "3G Capital, a firm led by my friend, Jorge\nPaulo Lemann. His talented associates – Bernardo Hees, Heinz’s new CEO, and Alex Behring, its\nChairman – are responsible for operations. * All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are\n1/1500 th of those shown for A. 3\n\nBerkshire is the financing partner.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 24
+    }
+  },
+  {
+    "text": "of those shown for A. 3\n\nBerkshire is the financing partner. In that role, we purchased $8 billion of Heinz preferred stock that\ncarries a 9% coupon but also possesses other features that should increase the preferred’s annual return to\n12% or so. Berkshire and 3G each purchased half of the Heinz common stock for $4.25 billion. Though the Heinz acquisition has some similarities to a “private equity” transaction, there is a crucial\ndifference: Berkshire never intends to sell a share of the company.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 25
+    }
+  },
+  {
+    "text": "Berkshire never intends to sell a share of the company. What we would like, rather, is to buy\nmore, and that could happen: Certain 3G investors may sell some or all of their shares in the future, and\nwe might increase our ownership at such times. Berkshire and 3G could also decide at some point that it\nwould be mutually beneficial if we were to exchange some of our preferred for common shares (at an\nequity valuation appropriate to the time).",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 26
+    }
+  },
+  {
+    "text": "for common shares (at an\nequity valuation appropriate to the time). Our partnership took control of Heinz in June, and operating results so far are encouraging. Only minor\nearnings from Heinz, however, are reflected in those we report for Berkshire this year: One-time charges\nincurred in the purchase and subsequent restructuring of operations totaled $1.3 billion. Earnings in 2014\nwill be substantial.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 27
+    }
+  },
+  {
+    "text": "of operations totaled $1.3 billion. Earnings in 2014\nwill be substantial. With Heinz, Berkshire now owns 8 1⁄2 companies that, were they stand-alone businesses, would be in the\nFortune 500. Only 491 1⁄2 to go. NV Energy, purchased for $5.6 billion by MidAmerican Energy, our utility subsidiary, supplies electricity\nto about 88% of Nevada’s population. This acquisition fits nicely into our existing electric-utility\noperation and offers many possibilities for large investments in renewable energy.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 28
+    }
+  },
+  {
+    "text": "and offers many possibilities for large investments in renewable energy. NV Energy will not be\nMidAmerican’s last major acquisition. Š MidAmerican is one of our “Powerhouse Five” – a collection of large non-insurance businesses that, in\naggregate, had a record $10.8 billion of pre-tax earnings in 2013, up $758 million from 2012. The other\ncompanies in this sainted group are BNSF, Iscar, Lubrizol and Marmon.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 29
+    }
+  },
+  {
+    "text": "in this sainted group are BNSF, Iscar, Lubrizol and Marmon. Of the five, only MidAmerican, then earning $393 million pre-tax, was owned by Berkshire nine years\nago. Subsequently, we purchased another three of the five on an all-cash basis. In acquiring the fifth,\nBNSF, we paid about 70% of the cost in cash, and, for the remainder, issued shares that increased the\nnumber outstanding by 6.1%.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 30
+    }
+  },
+  {
+    "text": "the remainder, issued shares that increased the\nnumber outstanding by 6.1%. In other words, the $10.4 billion gain in annual earnings delivered Berkshire\nby the five companies over the nine-year span has been accompanied by only minor dilution. That satisfies\nour goal of not simply growing, but rather increasing per-share results. If the U.S. economy continues to improve in 2014, we can expect earnings of our Powerhouse Five to\nimprove also – perhaps by $1 billion or so pre-tax.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 31
+    }
+  },
+  {
+    "text": "to\nimprove also – perhaps by $1 billion or so pre-tax. Š Our many dozens of smaller non-insurance businesses earned $4.7 billion pre-tax last year, up from $3.9\nbillion in 2012. Here, too, we expect further gains in 2014. Š Berkshire’s extensive insurance operation again operated at an underwriting profit in 2013 – that makes 11\nyears in a row – and increased its float.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 32
+    }
+  },
+  {
+    "text": "makes 11\nyears in a row – and increased its float. During that 11-year stretch, our float – money that doesn’t belong\nto us but that we can invest for Berkshire’s benefit – has grown from $41 billion to $77 billion. Concurrently, our underwriting profit has aggregated $22 billion pre-tax, including $3 billion realized in\n2013. And all of this all began with our 1967 purchase of National Indemnity for $8.6 million. We now own a wide variety of exceptional insurance operations.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 33
+    }
+  },
+  {
+    "text": "We now own a wide variety of exceptional insurance operations. Best known is GEICO, the car insurer\nBerkshire acquired in full at yearend 1995 (having for many years prior owned a partial interest). GEICO\nin 1996 ranked number seven among U.S. auto insurers. Now, GEICO is number two, having recently\npassed Allstate. The reasons for this amazing growth are simple: low prices and reliable service.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 34
+    }
+  },
+  {
+    "text": "this amazing growth are simple: low prices and reliable service. You can\ndo yourself a favor by calling 1-800-847-7536 or checking Geico.com to see if you, too, can cut your\ninsurance costs. Buy some of Berkshire’s other products with the savings. 4\n\nŠ While Charlie and I search for elephants, our many subsidiaries are regularly making bolt-on acquisitions. Last year, we contracted for 25 of these, scheduled to cost $3.1 billion in aggregate.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 35
+    }
+  },
+  {
+    "text": "25 of these, scheduled to cost $3.1 billion in aggregate. These transactions\nranged from $1.9 million to $1.1 billion in size. Charlie and I encourage these deals. They deploy capital in activities that fit with our existing businesses\nand that will be managed by our corps of expert managers. The result is no more work for us and more\nearnings for you. Many more of these bolt-on deals will be made in future years. In aggregate, they will be\nmeaningful.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 36
+    }
+  },
+  {
+    "text": "be made in future years. In aggregate, they will be\nmeaningful. Š Last year we invested $3.5 billion in the surest sort of bolt-on: the purchase of additional shares in two\nwonderful businesses that we already controlled. In one case – Marmon – our purchases brought us to the\n100% ownership we had signed up for in 2008. In the other instance – Iscar – the Wertheimer family\nelected to exercise a put option it held, selling us the 20% of the business it retained when we bought\ncontrol in 2006.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 37
+    }
+  },
+  {
+    "text": "of the business it retained when we bought\ncontrol in 2006. These purchases added about $300 million pre-tax to our current earning power and also delivered us $800\nmillion of cash. Meanwhile, the same nonsensical accounting rule that I described in last year’s letter\nrequired that we enter these purchases on our books at $1.8 billion less than we paid, a process that\nreduced Berkshire’s book value.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 38
+    }
+  },
+  {
+    "text": "less than we paid, a process that\nreduced Berkshire’s book value. (The charge was made to “capital in excess of par value”; figure that one\nout.) This weird accounting, you should understand, instantly increased Berkshire’s excess of intrinsic\nvalue over book value by the same $1.8 billion. Š Our subsidiaries spent a record $11 billion on plant and equipment during 2013, roughly twice our\ndepreciation charge. About 89% of that money was spent in the United States.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 39
+    }
+  },
+  {
+    "text": "89% of that money was spent in the United States. Though we invest abroad as\nwell, the mother lode of opportunity resides in America. Š In a year in which most equity managers found it impossible to outperform the S&P 500, both Todd\nCombs and Ted Weschler handily did so. Each now runs a portfolio exceeding $7 billion. They’ve earned\nit. I must again confess that their investments outperformed mine.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 40
+    }
+  },
+  {
+    "text": "earned\nit. I must again confess that their investments outperformed mine. (Charlie says I should add “by a lot.”) If\nsuch humiliating comparisons continue, I’ll have no choice but to cease talking about them. Todd and Ted have also created significant value for you in several matters unrelated to their portfolio\nactivities. Their contributions are just beginning: Both men have Berkshire blood in their veins.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 41
+    }
+  },
+  {
+    "text": "just beginning: Both men have Berkshire blood in their veins. Š Berkshire’s yearend employment – counting Heinz – totaled a record 330,745, up 42,283 from last year. The increase, I must admit, included one person at our Omaha home office. (Don’t panic: The\nheadquarters gang still fits comfortably on one floor.)\nŠ Berkshire increased its ownership interest last year in each of its “Big Four” investments – American\nExpress, Coca-Cola, IBM and Wells Fargo.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 42
+    }
+  },
+  {
+    "text": "“Big Four” investments – American\nExpress, Coca-Cola, IBM and Wells Fargo. We purchased additional shares of Wells Fargo (increasing\nour ownership to 9.2% versus 8.7% at yearend 2012) and IBM (6.3% versus 6.0%). Meanwhile, stock\nrepurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca-\nCola grew from 8.9% to 9.1% and our interest in American Express from 13.7% to 14.2%.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 43
+    }
+  },
+  {
+    "text": "and our interest in American Express from 13.7% to 14.2%. And, if you\nthink tenths of a percent aren’t important, ponder this math: For the four companies in aggregate, each\nincrease of one-tenth of a percent in our share of their equity raises Berkshire’s share of their annual\nearnings by $50 million. 5\n\nThe four companies possess excellent businesses and are run by managers who are both talented and\nshareholder-oriented.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 44
+    }
+  },
+  {
+    "text": "and are run by managers who are both talented and\nshareholder-oriented. At Berkshire, we much prefer owning a non-controlling but substantial portion of a\nwonderful company to owning 100% of a so-so business; it’s better to have a partial interest in the Hope\ndiamond than to own all of a rhinestone. Going by our yearend holdings, our portion of the “Big Four’s” 2013 earnings amounted to $4.4 billion.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 45
+    }
+  },
+  {
+    "text": "of the “Big Four’s” 2013 earnings amounted to $4.4 billion. In\nthe earnings we report to you, however, we include only the dividends we receive – about $1.4 billion last\nyear. But make no mistake: The $3 billion of their earnings we don’t report is every bit as valuable to us as\nthe portion Berkshire records.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 46
+    }
+  },
+  {
+    "text": "every bit as valuable to us as\nthe portion Berkshire records. The earnings that these four companies retain are often used for repurchases of their own stock – a move\nthat enhances our share of future earnings – as well as for funding business opportunities that usually turn\nout to be advantageous. All that leads us to expect that the per-share earnings of these four investees will\ngrow substantially over time.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 47
+    }
+  },
+  {
+    "text": "per-share earnings of these four investees will\ngrow substantially over time. If they do, dividends to Berkshire will increase and, even more important,\nour unrealized capital gains will, too. (For the four, unrealized gains already totaled $39 billion at\nyearend.)\nOur flexibility in capital allocation – our willingness to invest large sums passively in non-controlled\nbusinesses – gives us a significant advantage over companies that limit themselves to acquisitions they can\noperate.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 48
+    }
+  },
+  {
+    "text": "advantage over companies that limit themselves to acquisitions they can\noperate. Woody Allen stated the general idea when he said: “The advantage of being bi-sexual is that it\ndoubles your chances for a date on Saturday night.” Similarly, our appetite for either operating businesses\nor passive investments doubles our chances of finding sensible uses for our endless gusher of cash.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 49
+    }
+  },
+  {
+    "text": "of finding sensible uses for our endless gusher of cash. * * * * * * * * * * * *\nLate in 2009, amidst the gloom of the Great Recession, we agreed to buy BNSF, the largest purchase in\nBerkshire’s history. At the time, I called the transaction an “all-in wager on the economic future of the United\nStates.”\nThat kind of commitment was nothing new for us: We’ve been making similar wagers ever since Buffett\nPartnership Ltd. acquired control of Berkshire in 1965. For good reason, too.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 50
+    }
+  },
+  {
+    "text": "acquired control of Berkshire in 1965. For good reason, too. Charlie and I have always considered\na “bet” on ever-rising U.S. prosperity to be very close to a sure thing. Indeed, who has ever benefited during the past 237 years by betting against America? If you compare our\ncountry’s present condition to that existing in 1776, you have to rub your eyes in wonder. And the dynamism\nembedded in our market economy will continue to work its magic. America’s best days lie ahead.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 51
+    }
+  },
+  {
+    "text": "continue to work its magic. America’s best days lie ahead. With this tailwind working for us, Charlie and I hope to build Berkshire’s per-share intrinsic value by\n(1) constantly improving the basic earning power of our many subsidiaries; (2) further increasing their earnings\nthrough bolt-on acquisitions; (3) benefiting from the growth of our investees; (4) repurchasing Berkshire shares\nwhen they are available at a meaningful discount from intrinsic value; and (5) making an occasional large\nacquisition.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 52
+    }
+  },
+  {
+    "text": "discount from intrinsic value; and (5) making an occasional large\nacquisition. We will also try to maximize results for you by rarely, if ever, issuing Berkshire shares. Those building blocks rest on a rock-solid foundation. A century hence, BNSF and MidAmerican Energy\nwill still be playing major roles in our economy. Insurance will concomitantly be essential for both businesses and\nindividuals – and no company brings greater human and financial resources to that business than Berkshire.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 53
+    }
+  },
+  {
+    "text": "greater human and financial resources to that business than Berkshire. Moreover, we will always maintain supreme financial strength, operating with at least $20 billion of cash\nequivalents and never incurring material amounts of short-term obligations. As we view these and other strengths,\nCharlie and I like your company’s prospects. We feel fortunate to be entrusted with its management.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 54
+    }
+  },
+  {
+    "text": "prospects. We feel fortunate to be entrusted with its management. 6\n\nIntrinsic Business Value\nAs much as Charlie and I talk about intrinsic business value, we cannot tell you precisely what that\nnumber is for Berkshire shares (nor, in fact, for any other stock). In our 2010 annual report, however, we laid out\nthe three elements – one of them qualitative – that we believe are the keys to a sensible estimate of Berkshire’s\nintrinsic value. That discussion is reproduced in full on pages 109 - 110.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 55
+    }
+  },
+  {
+    "text": "discussion is reproduced in full on pages 109 - 110. Here is an update of the two quantitative factors: In 2013 our per-share investments increased 13.6% to\n$129,253 and our pre-tax earnings from businesses other than insurance and investments increased 12.8% to $9,116\nper share. Since 1970, our per-share investments have increased at a rate of 19.3% compounded annually, and our\nearnings figure has grown at a 20.6% clip.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 56
+    }
+  },
+  {
+    "text": "annually, and our\nearnings figure has grown at a 20.6% clip. It is no coincidence that the price of Berkshire stock over the 43-year\nperiod has increased at a rate very similar to that of our two measures of value. Charlie and I like to see gains in\nboth sectors, but we will most strongly focus on building operating earnings. * * * * * * * * * * * *\nNow, let’s examine the four major sectors of our operations. Each has vastly different balance sheet and\nincome characteristics from the others.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 57
+    }
+  },
+  {
+    "text": "has vastly different balance sheet and\nincome characteristics from the others. So we’ll present them as four separate businesses, which is how Charlie and\nI view them (though there are important and enduring advantages to having them all under one roof). Our goal is to\nprovide you with the information we would wish to have if our positions were reversed, with you being the\nreporting manager and we the absentee shareholders.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 58
+    }
+  },
+  {
+    "text": "with you being the\nreporting manager and we the absentee shareholders. (But don’t get any ideas!)\nInsurance\n“Our investment in the insurance companies reflects a first major step in our efforts to achieve a more\ndiversified base of earning power.”\n— 1967 Annual Report\nLet’s look first at insurance, Berkshire’s core operation and the engine that has consistently propelled our\nexpansion since that 1967 report was published. Property-casualty (“P/C”) insurers receive premiums upfront and pay claims later.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 59
+    }
+  },
+  {
+    "text": "Property-casualty (“P/C”) insurers receive premiums upfront and pay claims later. In extreme cases, such\nas those arising from certain workers’ compensation accidents, payments can stretch over decades. This collect-\nnow, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to\nothers. Meanwhile, insurers get to invest this float for their benefit.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 60
+    }
+  },
+  {
+    "text": "Meanwhile, insurers get to invest this float for their benefit. Though individual policies and claims come\nand go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And how we have grown, as the following table shows:\nYear Float (in $ millions)\n1970 $ 39\n1980 237\n1990 1,632\n2000 27,871\n2010 65,832\n2013 77,240\nFurther gains in float will be tough to achieve.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 61
+    }
+  },
+  {
+    "text": "65,832\n2013 77,240\nFurther gains in float will be tough to achieve. On the plus side, GEICO’s float will almost certainly grow. In National Indemnity’s reinsurance division, however, we have a number of run-off contracts whose float drifts\ndownward. If we do experience a decline in float at some future time, it will be very gradual – at the outside no\nmore than 3% in any year.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 62
+    }
+  },
+  {
+    "text": "– at the outside no\nmore than 3% in any year. The nature of our insurance contracts is such that we can never be subject to immediate\ndemands for sums that are large compared to our cash resources. (In this respect, property-casualty insurance\ndiffers in an important way from certain forms of life insurance.)\n7\n\nIf our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit\nthat adds to the investment income our float produces.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 63
+    }
+  },
+  {
+    "text": "underwriting profit\nthat adds to the investment income our float produces. When such a profit is earned, we enjoy the use of free\nmoney – and, better yet, get paid for holding it. Unfortunately, the wish of all insurers to achieve this happy result creates intense competition, so vigorous\nin most years that it causes the P/C industry as a whole to operate at a significant underwriting loss. This loss, in\neffect, is what the industry pays to hold its float.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 64
+    }
+  },
+  {
+    "text": "in\neffect, is what the industry pays to hold its float. For example, State Farm, by far the country’s largest insurer and a\nwell-managed company besides, incurred an underwriting loss in nine of the twelve years ending in 2012 (the latest\nyear for which their financials are available, as I write this). Competitive dynamics almost guarantee that the\ninsurance industry – despite the float income all companies enjoy – will continue its dismal record of earning\nsubnormal returns as compared to other businesses.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 65
+    }
+  },
+  {
+    "text": "dismal record of earning\nsubnormal returns as compared to other businesses. As noted in the first section of this report, we have now operated at an underwriting profit for eleven\nconsecutive years, our pre-tax gain for the period having totaled $22 billion. Looking ahead, I believe we will\ncontinue to underwrite profitably in most years. Doing so is the daily focus of all of our insurance managers who\nknow that while float is valuable, it can be drowned by poor underwriting results.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 66
+    }
+  },
+  {
+    "text": "is valuable, it can be drowned by poor underwriting results. So how does our float affect intrinsic value? When Berkshire’s book value is calculated, the full amount of\nour float is deducted as a liability, just as if we had to pay it out tomorrow and could not replenish it. But to think of\nfloat as strictly a liability is incorrect; it should instead be viewed as a revolving fund. Daily, we pay old claims –\nsome $17 billion to more than five million claimants in 2013 – and that reduces float.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 67
+    }
+  },
+  {
+    "text": "five million claimants in 2013 – and that reduces float. Just as surely, we each day\nwrite new business and thereby generate new claims that add to float. If our revolving float is both costless and\nlong-enduring, which I believe it will be, the true value of this liability is dramatically less than the accounting\nliability. A counterpart to this overstated liability is $15.5 billion of “goodwill” that is attributable to our insurance\ncompanies and included in book value as an asset.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 68
+    }
+  },
+  {
+    "text": "our insurance\ncompanies and included in book value as an asset. In very large part, this goodwill represents the price we paid for\nthe float-generating capabilities of our insurance operations. The cost of the goodwill, however, has no bearing on\nits true value. For example, if an insurance business sustains large and prolonged underwriting losses, any goodwill\nasset carried on the books should be deemed valueless, whatever its original cost. Fortunately, that does not describe Berkshire.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 69
+    }
+  },
+  {
+    "text": "whatever its original cost. Fortunately, that does not describe Berkshire. Charlie and I believe the true economic value of our\ninsurance goodwill – what we would happily pay to purchase an insurance operation possessing float of similar\nquality to that we have – to be far in excess of its historic carrying value. The value of our float is one reason – a\nhuge reason – why we believe Berkshire’s intrinsic business value substantially exceeds its book value.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 70
+    }
+  },
+  {
+    "text": "believe Berkshire’s intrinsic business value substantially exceeds its book value. * * * * * * * * * * * *\nBerkshire’s attractive insurance economics exist only because we have some terrific managers running\ndisciplined operations that possess strong, hard-to-replicate business models. Let me tell you about the major units. First by float size is the Berkshire Hathaway Reinsurance Group, managed by Ajit Jain. Ajit insures risks\nthat no one else has the desire or the capital to take on.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 71
+    }
+  },
+  {
+    "text": "else has the desire or the capital to take on. His operation combines capacity, speed, decisiveness and,\nmost important, brains in a manner unique in the insurance business. Yet he never exposes Berkshire to risks that\nare inappropriate in relation to our resources. Indeed, we are far more conservative in avoiding risk than most large\ninsurers.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 72
+    }
+  },
+  {
+    "text": "are far more conservative in avoiding risk than most large\ninsurers. For example, if the insurance industry should experience a $250 billion loss from some mega-\ncatastrophe – a loss about triple anything it has ever experienced – Berkshire as a whole would likely record a\nsignificant profit for the year because of its many streams of earnings. And we would remain awash in cash,\nlooking for large opportunities if the catastrophe caused markets to go into shock.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 73
+    }
+  },
+  {
+    "text": "opportunities if the catastrophe caused markets to go into shock. All other major insurers and\nreinsurers would meanwhile be far in the red, with some facing insolvency. From a standing start in 1985, Ajit has created an insurance business with float of $37 billion and a large\ncumulative underwriting profit, a feat no other insurance CEO has come close to matching. Ajit’s mind is an idea\nfactory that is always looking for more lines of business he can add to his current assortment.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 74
+    }
+  },
+  {
+    "text": "lines of business he can add to his current assortment. 8\n\nOne venture materialized last June when he formed Berkshire Hathaway Specialty Insurance (“BHSI”). This initiative took us into commercial insurance, where we were instantly accepted by both major insurance\nbrokers and corporate risk managers throughout America.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 75
+    }
+  },
+  {
+    "text": "by both major insurance\nbrokers and corporate risk managers throughout America. These professionals recognize that no other insurer can\nmatch the financial strength of Berkshire, which guarantees that legitimate claims arising many years in the future\nwill be paid promptly and fully. BHSI is led by Peter Eastwood, an experienced underwriter who is widely respected in the insurance\nworld.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 76
+    }
+  },
+  {
+    "text": "an experienced underwriter who is widely respected in the insurance\nworld. Peter has assembled a spectacular team that is already writing a substantial amount of business with many\nFortune 500 companies and with smaller operations as well. BHSI will be a major asset for Berkshire, one that will\ngenerate volume in the billions within a few years. Give Peter a Berkshire greeting when you see him at the annual\nmeeting.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 77
+    }
+  },
+  {
+    "text": "a Berkshire greeting when you see him at the annual\nmeeting. * * * * * * * * * * * *\nWe have another reinsurance powerhouse in General Re, managed by Tad Montross. At bottom, a sound insurance operation needs to adhere to four disciplines.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 78
+    }
+  },
+  {
+    "text": "a sound insurance operation needs to adhere to four disciplines. It must (1) understand all\nexposures that might cause a policy to incur losses; (2) conservatively assess the likelihood of any exposure\nactually causing a loss and the probable cost if it does; (3) set a premium that, on average, will deliver a profit after\nboth prospective loss costs and operating expenses are covered; and (4) be willing to walk away if the appropriate\npremium can’t be obtained.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 79
+    }
+  },
+  {
+    "text": "willing to walk away if the appropriate\npremium can’t be obtained. Many insurers pass the first three tests and flunk the fourth. They simply can’t turn their back on business\nthat is being eagerly written by their competitors. That old line, “The other guy is doing it, so we must as well,”\nspells trouble in any business, but in none more so than insurance. Tad has observed all four of the insurance commandments, and it shows in his results.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 80
+    }
+  },
+  {
+    "text": "of the insurance commandments, and it shows in his results. General Re’s huge\nfloat has been better than cost-free under his leadership, and we expect that, on average, to continue. We are\nparticularly enthusiastic about General Re’s international life reinsurance business, which has grown consistently\nand profitably since we acquired the company in 1998.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 81
+    }
+  },
+  {
+    "text": "grown consistently\nand profitably since we acquired the company in 1998. It can be remembered that soon after we purchased General Re, the company was beset by problems that\ncaused commentators – and me as well, briefly – to believe I had made a huge mistake. That day is long gone. General Re is now a gem. * * * * * * * * * * * *\nFinally, there is GEICO, the insurer on which I cut my teeth 63 years ago. GEICO is managed by Tony\nNicely, who joined the company at 18 and completed 52 years of service in 2013.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 82
+    }
+  },
+  {
+    "text": "at 18 and completed 52 years of service in 2013. Tony became CEO in 1993, and\nsince then the company has been flying. When I was first introduced to GEICO in January 1951, I was blown away by the huge cost advantage the\ncompany enjoyed compared to the expenses borne by the giants of the industry. That operational efficiency continues\ntoday and is an all-important asset. No one likes to buy auto insurance. But almost everyone likes to drive. The\ninsurance needed is a major expenditure for most families.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 83
+    }
+  },
+  {
+    "text": "drive. The\ninsurance needed is a major expenditure for most families. Savings matter to them – and only a low-cost operation can\ndeliver these. GEICO’s cost advantage is the factor that has enabled the company to gobble up market share year after\nyear. Its low costs create a moat – an enduring one – that competitors are unable to cross. Meanwhile, our little\ngecko continues to tell Americans how GEICO can save them important money.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 84
+    }
+  },
+  {
+    "text": "to tell Americans how GEICO can save them important money. With our latest reduction in\noperating costs, his story has become even more compelling. 9\n\nIn 1995, we purchased the half of GEICO that we didn’t already own, paying $1.4 billion more than the net\ntangible assets we acquired. That’s “goodwill,” and it will forever remain unchanged on our books. As GEICO’s\nbusiness grows, however, so does its true economic goodwill. I believe that figure to be approaching $20 billion.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 85
+    }
+  },
+  {
+    "text": "goodwill. I believe that figure to be approaching $20 billion. * * * * * * * * * * * *\nIn addition to our three major insurance operations, we own a group of smaller companies, most of them\nplying their trade in odd corners of the insurance world. In aggregate, these companies are a growing operation that\nconsistently delivers an underwriting profit. Moreover, as the table below shows, they also provide us with\nsubstantial float. Charlie and I treasure these companies and their managers.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 86
+    }
+  },
+  {
+    "text": "float. Charlie and I treasure these companies and their managers. Underwriting Profit Yearend Float\n(in millions)\nInsurance Operations 2013 2012 2013 2012\nBH Reinsurance . . . . . . . . . . . . . . $1,294 $ 304 $37,231 $34,821\nGeneral Re . . . . . . . . . . . . . . . . . . 283 355 20,013 20,128\nGEICO . . . . . . . . . . . . . . . . . . . . . 1,127 680 12,566 11,578\nOther Primary . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 87
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 385 286 7,430 6,598\n$3,089 $1,625 $77,240 $73,125\n* * * * * * * * * * * *\nSimply put, insurance is the sale of promises. The “customer” pays money now; the insurer promises to\npay money in the future if certain events occur. Sometimes, the promise will not be tested for decades. (Think of life insurance bought by those in their\n20s.) Therefore, both the ability and willingness of the insurer to pay – even if economic chaos prevails when\npayment time arrives – is all-important.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 88
+    }
+  },
+  {
+    "text": "if economic chaos prevails when\npayment time arrives – is all-important. Berkshire’s promises have no equal, a fact affirmed in recent years by the actions of the world’s largest\nand most sophisticated insurers, some of which have wanted to shed themselves of huge and exceptionally long-\nlived liabilities, particularly those involving asbestos claims. That is, these insurers wished to “cede” their liabilities\nto a reinsurer.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 89
+    }
+  },
+  {
+    "text": "is, these insurers wished to “cede” their liabilities\nto a reinsurer. Choosing the wrong reinsurer, however – one that down the road proved to be financially strapped or\na bad actor – would put the original insurer in danger of getting the liabilities right back in its lap. Almost without exception, the largest insurers seeking aid came to Berkshire.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 90
+    }
+  },
+  {
+    "text": "without exception, the largest insurers seeking aid came to Berkshire. Indeed, in the largest such\ntransaction ever recorded, Lloyd’s in 2007 turned over to us both many thousands of known claims arising from\npolicies written before 1993 and an unknown but huge number of claims from that same period sure to materialize\nin the future.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 91
+    }
+  },
+  {
+    "text": "claims from that same period sure to materialize\nin the future. (Yes, we will be receiving claims decades from now that apply to events taking place prior to 1993.)\nBerkshire’s ultimate payments arising from the Lloyd’s transaction are today unknowable. What is certain,\nhowever, is that Berkshire will pay all valid claims up to the $15 billion limit of our policy. No other insurer’s\npromise would have given Lloyd’s the comfort provided by its agreement with Berkshire.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 92
+    }
+  },
+  {
+    "text": "given Lloyd’s the comfort provided by its agreement with Berkshire. The CEO of the entity\nthen handling Lloyd’s claims said it best: “Names [the original insurers at Lloyd’s] wanted to sleep easy at night,\nand we think we’ve just bought them the world’s best mattress.”\n* * * * * * * * * * * *\nBerkshire’s great managers, premier financial strength and a variety of business models possessing wide\nmoats form something unique in the insurance world.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 93
+    }
+  },
+  {
+    "text": "models possessing wide\nmoats form something unique in the insurance world. The combination is a huge asset for Berkshire shareholders\nthat will only get more valuable with time. 10\n\nRegulated, Capital-Intensive Businesses\n“Though there are many regulatory restraints in the utility industry, it’s possible that we will make\nadditional commitments in the field.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 94
+    }
+  },
+  {
+    "text": "it’s possible that we will make\nadditional commitments in the field. If we do, the amounts involved could be large.”\n— 1999 Annual Report\nWe have two major operations, BNSF and MidAmerican Energy, that share important characteristics\ndistinguishing them from our other businesses. Consequently, we assign them their own section in this letter and\nsplit out their combined financial statistics in our GAAP balance sheet and income statement.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 95
+    }
+  },
+  {
+    "text": "financial statistics in our GAAP balance sheet and income statement. A key characteristic of both companies is their huge investment in very long-lived, regulated assets, with\nthese partially funded by large amounts of long-term debt that is not guaranteed by Berkshire. Our credit is in fact\nnot needed because each company has earning power that even under terrible economic conditions will far exceed\nits interest requirements. Last year, for example, BNSF’s interest coverage was 9:1.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 96
+    }
+  },
+  {
+    "text": "requirements. Last year, for example, BNSF’s interest coverage was 9:1. (Our definition of coverage is\npre-tax earnings/interest, not EBITDA/interest, a commonly-used measure we view as seriously flawed.)\nAt MidAmerican, meanwhile, two factors ensure the company’s ability to service its debt under all\ncircumstances. The first is common to all utilities: recession-resistant earnings, which result from these companies\nexclusively offering an essential service.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 97
+    }
+  },
+  {
+    "text": "earnings, which result from these companies\nexclusively offering an essential service. The second is enjoyed by few other utilities: a great diversity of earnings\nstreams, which shield us from being seriously harmed by any single regulatory body. Now, with the acquisition of\nNV Energy, MidAmerican’s earnings base has further broadened. This particular strength, supplemented by\nBerkshire’s ownership, has enabled MidAmerican and its utility subsidiaries to significantly lower their cost of\ndebt.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 98
+    }
+  },
+  {
+    "text": "and its utility subsidiaries to significantly lower their cost of\ndebt. This advantage benefits both us and our customers. Every day, our two subsidiaries power the American economy in major ways:\nŠ BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by\ntruck, rail, water, air, or pipeline. Indeed, we move more ton-miles of goods than anyone else, a fact\nestablishing BNSF as the most important artery in our economy’s circulatory system.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 99
+    }
+  },
+  {
+    "text": "as the most important artery in our economy’s circulatory system. Its hold on the\nnumber-one position strengthened in 2013. BNSF, like all railroads, also moves its cargo in an extraordinarily fuel-efficient and environmentally\nfriendly way, carrying a ton of freight about 500 miles on a single gallon of diesel fuel. Trucks taking on\nthe same job guzzle about four times as much fuel. Š MidAmerican’s utilities serve regulated retail customers in eleven states. No utility company stretches\nfurther.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 100
+    }
+  },
+  {
+    "text": "regulated retail customers in eleven states. No utility company stretches\nfurther. In addition, we are the leader in renewables: From a standing start nine years ago, MidAmerican\nnow accounts for 7% of the country’s wind generation capacity, with more on the way. Our share in\nsolar – most of which is still in construction – is even larger. MidAmerican can make these investments because it retains all of its earnings.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 101
+    }
+  },
+  {
+    "text": "make these investments because it retains all of its earnings. Here’s a little known fact:\nLast year MidAmerican retained more dollars of earnings – by far – than any other American electric\nutility. We and our regulators see this as an important advantage – one almost certain to exist five, ten and\ntwenty years from now. When our current projects are completed, MidAmerican’s renewables portfolio will have cost $15 billion. We relish making such commitments as long as they promise reasonable returns.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 102
+    }
+  },
+  {
+    "text": "making such commitments as long as they promise reasonable returns. And, on that front, we put a large\namount of trust in future regulation. 11\n\nOur confidence is justified both by our past experience and by the knowledge that society will forever\nneed massive investments in both transportation and energy. It is in the self-interest of governments to treat capital\nproviders in a manner that will ensure the continued flow of funds to essential projects.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 103
+    }
+  },
+  {
+    "text": "will ensure the continued flow of funds to essential projects. It is meanwhile in our self-\ninterest to conduct our operations in a way that earns the approval of our regulators and the people they represent. Tangible proof of our dedication to that duty was delivered last year in a poll of customer satisfaction\ncovering 52 holding companies and their 101 operating electric utilities.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 104
+    }
+  },
+  {
+    "text": "satisfaction\ncovering 52 holding companies and their 101 operating electric utilities. Our MidAmerican group ranked number\none, with 95.3% of respondents giving us a “very satisfied” vote and not a single customer rating us “dissatisfied.”\nThe bottom score in the survey, incidentally, was a dismal 34.5%. All three of our companies were ranked far lower by this measure before they were acquired by\nMidAmerican.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 105
+    }
+  },
+  {
+    "text": "far lower by this measure before they were acquired by\nMidAmerican. The extraordinary customer satisfaction we have achieved is of great importance as we expand:\nRegulators in states we hope to enter are glad to see us, knowing we will be responsible operators. Our railroad has been diligent as well in anticipating the needs of its customers. Whatever you may have\nheard about our country’s crumbling infrastructure in no way applies to BNSF or railroads generally.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 106
+    }
+  },
+  {
+    "text": "infrastructure in no way applies to BNSF or railroads generally. America’s rail\nsystem has never been in better shape, a consequence of huge investments by the industry. We are not, however,\nresting: BNSF spent $4 billion on the railroad in 2013, double its depreciation charge and a single-year record for\nany railroad. And, we will spend considerably more in 2014. Like Noah, who foresaw early on the need for\ndependable transportation, we know it’s our job to plan ahead.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 107
+    }
+  },
+  {
+    "text": "for\ndependable transportation, we know it’s our job to plan ahead. Leading our two capital-intensive companies are Greg Abel, at MidAmerican, and the team of Matt Rose\nand Carl Ice at BNSF. The three are extraordinary managers who have my gratitude and deserve yours as well. Here are the key figures for their businesses:\nMidAmerican (89.8% owned) Earnings (in millions)\n2013 2012 2011\nU.K. utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 108
+    }
+  },
+  {
+    "text": ". . . . . . . . . . $ 362 $ 429 $ 469\nIowa utility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230 236 279\nWestern utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 982 737 771\nPipelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 385 383 388\nHomeServices . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 109
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139 82 39\nOther (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 91 36\nOperating earnings before corporate interest and taxes . . . . . . . . . . . . . . . . . . . . . . . 2,102 1,958 1,982\nInterest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296 314 336\nIncome taxes . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 110
+    }
+  },
+  {
+    "text": "314 336\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170 172 315\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,636 $ 1,472 $ 1,331\nEarnings applicable to Berkshire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 1,470 $ 1,323 $ 1,204\nBNSF Earnings (in millions)\n2013 2012 2011\nRevenues . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 111
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $22,014 $20,835 $19,548\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15,357 14,835 14,247\nOperating earnings before interest and taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6,657 6,000 5,301\nInterest (net) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 112
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . 729 623 560\nIncome taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,135 2,005 1,769\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 3,793 $ 3,372 $ 2,972\n12\n\nRon Peltier continues to build HomeServices, MidAmerican’s real estate brokerage subsidiary.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 113
+    }
+  },
+  {
+    "text": "Peltier continues to build HomeServices, MidAmerican’s real estate brokerage subsidiary. Last year\nhis operation made four acquisitions, the most significant being Fox & Roach, a Philadelphia-based company that\nis the largest single-market realtor in the country. HomeServices now has 22,114 agents (listed by geography on page 112), up 38% from 2012.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 114
+    }
+  },
+  {
+    "text": "(listed by geography on page 112), up 38% from 2012. HomeServices also owns 67% of the Prudential and Real Living franchise operations, which are in the process of\nrebranding their franchisees as Berkshire Hathaway HomeServices. If you haven’t yet, many of you will soon be\nseeing our name on “for sale” signs. Manufacturing, Service and Retailing Operations\n“See that store,” Warren says, pointing at Nebraska Furniture Mart. “That’s a really good business.”\n“Why don’t you buy it?” I said.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 115
+    }
+  },
+  {
+    "text": "a really good business.”\n“Why don’t you buy it?” I said. “It’s privately held,” Warren said. “Oh,” I said. “I might buy it anyway,” Warren said. “Someday.”\n— Supermoney by Adam Smith (1972)\nOur activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance\nsheet and earnings statement for the entire group. Balance Sheet 12/31/13 (in millions)\nAssets Liabilities and Equity\nCash and equivalents . . . . . . . . . . . . . . . . . . . $ 6,625 Notes payable . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 116
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . $ 1,615\nAccounts and notes receivable . . . . . . . . . . . . 7,749 Other current liabilities . . . . . . . . . . . . . 8,965\nInventory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9,945 Total current liabilities . . . . . . . . . . . . . 10,580\nOther current assets . . . . . . . . . . . . . . . . . . . . . 716\nTotal current assets . . . . . . . . . . . . . . . . . . . . . 25,035\nDeferred taxes . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 117
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 5,184\nGoodwill and other intangibles . . . . . . . . . . . . 25,617 Term debt and other liabilities . . . . . . . 4,405\nFixed assets . . . . . . . . . . . . . . . . . . . . . . . . . . . 19,389 Non-controlling interests . . . . . . . . . . . . 456\nOther assets . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,274 Berkshire equity . . . . . . . . . . . . . . . . . . 53,690\n$74,315 $74,315\nEarnings Statement (in millions)\n2013 2012 2011\nRevenues . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 118
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $95,291 $83,255 $72,406\nOperating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88,414 76,978 67,239\nInterest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135 146 130\nPre-tax earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 119
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 6,742 6,131 5,037\nIncome taxes and non-controlling interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,512 2,432 1,998\nNet earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 4,230 $ 3,699 $ 3,039\nOur income and expense data conforming to Generally Accepted Accounting Principles (“GAAP”) is on\npage 29.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 120
+    }
+  },
+  {
+    "text": "conforming to Generally Accepted Accounting Principles (“GAAP”) is on\npage 29. In contrast, the operating expense figures above are non-GAAP and exclude some purchase-accounting\nitems (primarily the amortization of certain intangible assets). We present the data in this manner because Charlie\nand I believe the adjusted numbers more accurately reflect the true economic expenses and profits of the businesses\naggregated in the table than do GAAP figures.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 121
+    }
+  },
+  {
+    "text": "of the businesses\naggregated in the table than do GAAP figures. 13\n\nI won’t explain all of the adjustments – some are tiny and arcane – but serious investors should understand\nthe disparate nature of intangible assets: Some truly deplete over time while others in no way lose value. With\nsoftware, for example, amortization charges are very real expenses.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 122
+    }
+  },
+  {
+    "text": "value. With\nsoftware, for example, amortization charges are very real expenses. Charges against other intangibles such as the\namortization of customer relationships, however, arise through purchase-accounting rules and are clearly not real\ncosts. GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as expenses\nwhen earnings are calculated – even though from an investor’s viewpoint they could not be more different.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 123
+    }
+  },
+  {
+    "text": "from an investor’s viewpoint they could not be more different. In the GAAP-compliant figures we show on page 29, amortization charges of $648 million for the\ncompanies included in this section are deducted as expenses. We would call about 20% of these “real,” the rest not. This difference has become significant because of the many acquisitions we have made. It will almost certainly rise\nfurther as we acquire more companies.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 124
+    }
+  },
+  {
+    "text": "It will almost certainly rise\nfurther as we acquire more companies. Eventually, of course, the non-real charges disappear when the assets to which they’re related become\nfully amortized. But this usually takes 15 years and – alas – it will be my successor whose reported earnings get the\nbenefit of their expiration. Every dime of depreciation expense we report, however, is a real cost. And that’s true at almost all other\ncompanies as well.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 125
+    }
+  },
+  {
+    "text": "cost. And that’s true at almost all other\ncompanies as well. When Wall Streeters tout EBITDA as a valuation guide, button your wallet. Our public reports of earnings will, of course, continue to conform to GAAP. To embrace reality,\nhowever, remember to add back most of the amortization charges we report. * * * * * * * * * * * *\nThe crowd of companies in this section sells products ranging from lollipops to jet airplanes.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 126
+    }
+  },
+  {
+    "text": "this section sells products ranging from lollipops to jet airplanes. Some of\nthese businesses, measured by earnings on unleveraged net tangible assets, enjoy terrific economics, producing\nprofits that run from 25% after-tax to far more than 100%. Others generate good returns in the area of 12% to 20%. A few, however, have very poor returns, a result of some serious mistakes I made in my job of capital allocation.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 127
+    }
+  },
+  {
+    "text": "serious mistakes I made in my job of capital allocation. I\nwas not misled: I simply was wrong in my evaluation of the economic dynamics of the company or the industry in\nwhich it operated. Fortunately, my blunders usually involved relatively small acquisitions. Our large buys have generally\nworked out well and, in a few cases, more than well. I have not, however, made my last mistake in purchasing\neither businesses or stocks. Not everything works out as planned.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 128
+    }
+  },
+  {
+    "text": "purchasing\neither businesses or stocks. Not everything works out as planned. Viewed as a single entity, the companies in this group are an excellent business. They employed an\naverage of $25 billion of net tangible assets during 2013 and, with large quantities of excess cash and little\nleverage, earned 16.7% after-tax on that capital. Of course, a business with terrific economics can be a bad investment if the purchase price is excessive.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 129
+    }
+  },
+  {
+    "text": "be a bad investment if the purchase price is excessive. We have paid substantial premiums to net tangible assets for most of our businesses, a cost that is reflected in the\nlarge figure we show for goodwill. Overall, however, we are getting a decent return on the capital we have\ndeployed in this sector. Furthermore, the intrinsic value of these businesses, in aggregate, exceeds their carrying\nvalue by a good margin.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 130
+    }
+  },
+  {
+    "text": "businesses, in aggregate, exceeds their carrying\nvalue by a good margin. Even so, the difference between intrinsic value and carrying value in the insurance and\nregulated-industry segments is far greater. It is there that the truly big winners reside. * * * * * * * * * * * *\nWe have far too many companies in this group to comment on them individually. Moreover, both current\nand potential competitors read this report. In a few of our businesses we might be disadvantaged if they knew our\nnumbers.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 131
+    }
+  },
+  {
+    "text": "our businesses we might be disadvantaged if they knew our\nnumbers. So, in some of our operations that are not of a size material to an evaluation of Berkshire, we only\ndisclose what is required. You can find a good bit of detail about many of our operations, however, on pages 80-84. 14\n\nI can’t resist, however, giving you an update on Nebraska Furniture Mart’s expansion into Texas.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 132
+    }
+  },
+  {
+    "text": "you an update on Nebraska Furniture Mart’s expansion into Texas. I’m not\ncovering this event because of its economic importance to Berkshire – it takes more than a new store to move the\nneedle on Berkshire’s $225 billion equity base. But I’ve now worked 30 years with the marvelous Blumkin family,\nand I’m excited about the remarkable store – truly Texas-sized – it is building at The Colony, in the northern part of\nthe Dallas metropolitan area.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 133
+    }
+  },
+  {
+    "text": "The Colony, in the northern part of\nthe Dallas metropolitan area. When the store is completed next year, NFM will have – under one roof, and on a 433-acre site – 1.8 million\nsquare feet of retail and supporting warehouse space. View the project’s progress at www.nfm.com/texas. NFM\nalready owns the two highest-volume home furnishings stores in the country (in Omaha and Kansas City, Kansas),\neach doing about $450 million annually. I predict the Texas store will blow these records away.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 134
+    }
+  },
+  {
+    "text": "I predict the Texas store will blow these records away. If you live anywhere\nnear Dallas, come check us out. I think back to August 30, 1983 – my birthday – when I went to see Mrs. B (Rose Blumkin), carrying a\n1 1⁄4 -page purchase proposal for NFM that I had drafted. (It’s reproduced on pages 114 - 115.) Mrs. B accepted my\noffer without changing a word, and we completed the deal without the involvement of investment bankers or\nlawyers (an experience that can only be described as heavenly).",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 135
+    }
+  },
+  {
+    "text": "or\nlawyers (an experience that can only be described as heavenly). Though the company’s financial statements were\nunaudited, I had no worries. Mrs. B simply told me what was what, and her word was good enough for me. Mrs. B was 89 at the time and worked until 103 – definitely my kind of woman. Take a look at NFM’s\nfinancial statements from 1946 on pages 116 - 117.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 136
+    }
+  },
+  {
+    "text": "at NFM’s\nfinancial statements from 1946 on pages 116 - 117. Everything NFM now owns comes from (a) that $72,264 of net\nworth and $50 – no zeros omitted – of cash the company then possessed, and (b) the incredible talents of Mrs. B,\nher son, Louie, and his sons Ron and Irv. The punch line to this story is that Mrs. B never spent a day in school. Moreover, she emigrated from\nRussia to America knowing not a word of English. But she loved her adopted country: At Mrs.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 137
+    }
+  },
+  {
+    "text": "of English. But she loved her adopted country: At Mrs. B’s request, the\nfamily always sang God Bless America at its gatherings. Aspiring business managers should look hard at the plain, but rare, attributes that produced Mrs. B’s\nincredible success. Students from 40 universities visit me every year, and I have them start the day with a visit to\nNFM. If they absorb Mrs. B’s lessons, they need none from me.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 138
+    }
+  },
+  {
+    "text": "they absorb Mrs. B’s lessons, they need none from me. Finance and Financial Products\n“Clayton’s loan portfolio will likely grow to at least $5 billion in not too many years and, with sensible\ncredit standards in place, should deliver significant earnings.”\n— 2003 Annual Report\nThis sector, our smallest, includes two rental companies, XTRA (trailers) and CORT (furniture), as well as\nClayton Homes, the country’s leading producer and financer of manufactured homes.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 139
+    }
+  },
+  {
+    "text": "Homes, the country’s leading producer and financer of manufactured homes. Aside from these 100%-\nowned subsidiaries, we also include in this category a collection of financial assets and our 50% interest in\nBerkadia Commercial Mortgage. Clayton is placed in this section because it owns and services 326,569 mortgages, totaling $13.6 billion. In\nrecent years, as manufactured home sales plummeted, a high percentage of Clayton’s earnings came from this\nmortgage business.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 140
+    }
+  },
+  {
+    "text": "a high percentage of Clayton’s earnings came from this\nmortgage business. In 2013, however, the sale of new homes began to pick up and earnings from both manufacturing and\nretailing are again becoming significant. Clayton remains America’s number one homebuilder: Its 2013 output of\n29,547 homes accounted for about 4.7% of all single-family residences built in the country. Kevin Clayton,\nClayton’s CEO, has done a magnificent job of guiding the company through the severe housing depression.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 141
+    }
+  },
+  {
+    "text": "job of guiding the company through the severe housing depression. Now,\nhis job – definitely more fun these days – includes the prospect of another earnings gain in 2014. 15\n\nCORT and XTRA are leaders in their industries as well. And Jeff Pederson and Bill Franz will keep them\non top. We are backing their plans through purchases of equipment that enlarge their rental potential. Here’s the pre-tax earnings recap for this sector:\n2013 2012 2011\n(in millions)\nBerkadia . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 142
+    }
+  },
+  {
+    "text": ". . . . . . . . . . $ 80 $ 35 $ 25\nClayton . . . . . . . . . . . . . . . . . . . . . . 416 255 154\nCORT . . . . . . . . . . . . . . . . . . . . . . . 40 42 29\nXTRA . . . . . . . . . . . . . . . . . . . . . . . 125 106 126\nNet financial income* . . . . . . . . . . . 324 410 440\n$985 $848 $ 774\n* Excludes capital gains or losses\nInvestments\n“Our stock portfolio . . . was worth approximately $17 million less than its carrying value [cost] . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 143
+    }
+  },
+  {
+    "text": "million less than its carrying value [cost] . . . it is our belief that, over a period of years, the overall portfolio will prove to be worth more than its\ncost.”\n— 1974 Annual Report\nBelow we list our fifteen common stock investments that at yearend had the largest market value. 12/31/13\nShares** Company Percentage of\nCompany\nOwned Cost* Market\n(in millions)\n151,610,700 American Express Company . . . . . . . . . . . . . 14.2 $ 1,287 $ 13,756\n400,000,000 The Coca-Cola Company . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 144
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 9.1 1,299 16,524\n22,238,900 DIRECTV . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 1,017 1,536\n41,129,643 Exxon Mobil Corp. . . . . . . . . . . . . . . . . . . . . 0.9 3,737 4,162\n13,062,594 The Goldman Sachs Group, Inc. . . . . . . . . . . 2.8 750 2,315\n68,121,984 International Business Machines Corp. . . . . . 6.3 11,681 12,778\n24,669,778 Moody’s Corporation . . . . . . . . . . . . . . . . . . 11.5 248 1,936\n20,060,390 Munich Re . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 145
+    }
+  },
+  {
+    "text": ". . . . . . . . . . . . . 11.2 2,990 4,415\n20,668,118 Phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.4 660 1,594\n52,477,678 The Procter & Gamble Company . . . . . . . . . 1.9 336 4,272\n22,169,930 Sanofi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.7 1,747 2,354\n301,046,076 Tesco plc . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7 1,699 1,666\n96,117,069 U.S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 146
+    }
+  },
+  {
+    "text": ". . . . . . . . . . 5.3 3,002 3,883\n56,805,984 Wal-Mart Stores, Inc. . . . . . . . . . . . . . . . . . . 1.8 2,976 4,470\n483,470,853 Wells Fargo & Company . . . . . . . . . . . . . . . . 9.2 11,871 21,950\nOthers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11,281 19,894\nTotal Common Stocks Carried at Market . . .",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 147
+    }
+  },
+  {
+    "text": "11,281 19,894\nTotal Common Stocks Carried at Market . . . $56,581 $117,505\n*This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of\nwrite-ups or write-downs that have been required under its rules. **Excludes shares held by Berkshire subsidiary pension funds. 16\n\nBerkshire has one major equity position that is not included in the table: We can buy 700 million shares of\nBank of America at any time prior to September 2021 for $5 billion.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 148
+    }
+  },
+  {
+    "text": "at any time prior to September 2021 for $5 billion. At yearend these shares were worth $10.9\nbillion. We are likely to purchase the shares just before expiration of our option. In the meantime, it is important for\nyou to realize that Bank of America is, in effect, our fifth largest equity investment and one we value highly. In addition to our equity holdings, we also invest substantial sums in bonds. Usually, we’ve done well in\nthese. But not always. Most of you have never heard of Energy Future Holdings.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 149
+    }
+  },
+  {
+    "text": "Most of you have never heard of Energy Future Holdings. Consider yourselves lucky; I certainly wish I\nhadn’t. The company was formed in 2007 to effect a giant leveraged buyout of electric utility assets in Texas. The\nequity owners put up $8 billion and borrowed a massive amount in addition. About $2 billion of the debt was\npurchased by Berkshire, pursuant to a decision I made without consulting with Charlie. That was a big mistake.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 150
+    }
+  },
+  {
+    "text": "made without consulting with Charlie. That was a big mistake. Unless natural gas prices soar, EFH will almost certainly file for bankruptcy in 2014. Last year, we sold\nour holdings for $259 million. While owning the bonds, we received $837 million in cash interest. Overall,\ntherefore, we suffered a pre-tax loss of $873 million. Next time I’ll call Charlie. A few of our subsidiaries – primarily electric and gas utilities – use derivatives in their operations.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 151
+    }
+  },
+  {
+    "text": "electric and gas utilities – use derivatives in their operations. Otherwise, we have not entered into any derivative contracts for some years, and our existing positions continue to\nrun off. The contracts that have expired have delivered large profits as well as several billion dollars of medium-\nterm float. Though there are no guarantees, we expect a similar result from those remaining on our books. Some Thoughts About Investing\nInvestment is most intelligent when it is most businesslike.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 152
+    }
+  },
+  {
+    "text": "About Investing\nInvestment is most intelligent when it is most businesslike. — The Intelligent Investor by Benjamin Graham\nIt is fitting to have a Ben Graham quote open this discussion because I owe so much of what I know about\ninvesting to him. I will talk more about Ben a bit later, and I will even sooner talk about common stocks. But let me\nfirst tell you about two small non-stock investments that I made long ago. Though neither changed my net worth by\nmuch, they are instructive.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 153
+    }
+  },
+  {
+    "text": "Though neither changed my net worth by\nmuch, they are instructive. This tale begins in Nebraska. From 1973 to 1981, the Midwest experienced an explosion in farm prices,\ncaused by a widespread belief that runaway inflation was coming and fueled by the lending policies of small rural\nbanks. Then the bubble burst, bringing price declines of 50% or more that devastated both leveraged farmers and\ntheir lenders.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 154
+    }
+  },
+  {
+    "text": "50% or more that devastated both leveraged farmers and\ntheir lenders. Five times as many Iowa and Nebraska banks failed in that bubble’s aftermath than in our recent\nGreat Recession. In 1986, I purchased a 400-acre farm, located 50 miles north of Omaha, from the FDIC. It cost me\n$280,000, considerably less than what a failed bank had lent against the farm a few years earlier. I knew nothing\nabout operating a farm.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 155
+    }
+  },
+  {
+    "text": "a few years earlier. I knew nothing\nabout operating a farm. But I have a son who loves farming and I learned from him both how many bushels of corn\nand soybeans the farm would produce and what the operating expenses would be. From these estimates, I\ncalculated the normalized return from the farm to then be about 10%. I also thought it was likely that productivity\nwould improve over time and that crop prices would move higher as well. Both expectations proved out.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 156
+    }
+  },
+  {
+    "text": "prices would move higher as well. Both expectations proved out. I needed no unusual knowledge or intelligence to conclude that the investment had no downside and\npotentially had substantial upside. There would, of course, be the occasional bad crop and prices would sometimes\ndisappoint. But so what? There would be some unusually good years as well, and I would never be under any\npressure to sell the property. Now, 28 years later, the farm has tripled its earnings and is worth five times or more\nwhat I paid.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 157
+    }
+  },
+  {
+    "text": "earnings and is worth five times or more\nwhat I paid. I still know nothing about farming and recently made just my second visit to the farm. 17\n\nIn 1993, I made another small investment. Larry Silverstein, Salomon’s landlord when I was the\ncompany’s CEO, told me about a New York retail property adjacent to NYU that the Resolution Trust Corp. was\nselling.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 158
+    }
+  },
+  {
+    "text": "property adjacent to NYU that the Resolution Trust Corp. was\nselling. Again, a bubble had popped – this one involving commercial real estate – and the RTC had been created to\ndispose of the assets of failed savings institutions whose optimistic lending practices had fueled the folly. Here, too, the analysis was simple. As had been the case with the farm, the unleveraged current yield from\nthe property was about 10%.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 159
+    }
+  },
+  {
+    "text": "farm, the unleveraged current yield from\nthe property was about 10%. But the property had been undermanaged by the RTC, and its income would increase\nwhen several vacant stores were leased. Even more important, the largest tenant – who occupied around 20% of the\nproject’s space – was paying rent of about $5 per foot, whereas other tenants averaged $70. The expiration of this\nbargain lease in nine years was certain to provide a major boost to earnings.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 160
+    }
+  },
+  {
+    "text": "years was certain to provide a major boost to earnings. The property’s location was also\nsuperb: NYU wasn’t going anywhere. I joined a small group, including Larry and my friend Fred Rose, that purchased the parcel. Fred was an\nexperienced, high-grade real estate investor who, with his family, would manage the property. And manage it they\ndid. As old leases expired, earnings tripled. Annual distributions now exceed 35% of our original equity\ninvestment.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 161
+    }
+  },
+  {
+    "text": "tripled. Annual distributions now exceed 35% of our original equity\ninvestment. Moreover, our original mortgage was refinanced in 1996 and again in 1999, moves that allowed several\nspecial distributions totaling more than 150% of what we had invested. I’ve yet to view the property. Income from both the farm and the NYU real estate will probably increase in the decades to come.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 162
+    }
+  },
+  {
+    "text": "real estate will probably increase in the decades to come. Though\nthe gains won’t be dramatic, the two investments will be solid and satisfactory holdings for my lifetime and,\nsubsequently, for my children and grandchildren. I tell these tales to illustrate certain fundamentals of investing:\nŠ You don’t need to be an expert in order to achieve satisfactory investment returns. But if you aren’t, you\nmust recognize your limitations and follow a course certain to work reasonably well.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 163
+    }
+  },
+  {
+    "text": "limitations and follow a course certain to work reasonably well. Keep things simple\nand don’t swing for the fences. When promised quick profits, respond with a quick “no.”\nŠ Focus on the future productivity of the asset you are considering. If you don’t feel comfortable making a rough\nestimate of the asset’s future earnings, just forget it and move on. No one has the ability to evaluate every\ninvestment possibility. But omniscience isn’t necessary; you only need to understand the actions you undertake.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 164
+    }
+  },
+  {
+    "text": "necessary; you only need to understand the actions you undertake. Š If you instead focus on the prospective price change of a contemplated purchase, you are speculating. There is nothing improper about that. I know, however, that I am unable to speculate successfully, and I\nam skeptical of those who claim sustained success at doing so. Half of all coin-flippers will win their first\ntoss; none of those winners has an expectation of profit if he continues to play the game.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 165
+    }
+  },
+  {
+    "text": "expectation of profit if he continues to play the game. And the fact that\na given asset has appreciated in the recent past is never a reason to buy it. Š With my two small investments, I thought only of what the properties would produce and cared not at all\nabout their daily valuations. Games are won by players who focus on the playing field – not by those\nwhose eyes are glued to the scoreboard. If you can enjoy Saturdays and Sundays without looking at stock\nprices, give it a try on weekdays.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 166
+    }
+  },
+  {
+    "text": "without looking at stock\nprices, give it a try on weekdays. Š Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 167
+    }
+  },
+  {
+    "text": "blur your vision of the facts that are truly important. (When I hear\nTV commentators glibly opine on what the market will do next, I am reminded of Mickey Mantle’s\nscathing comment: “You don’t know how easy this game is until you get into that broadcasting booth.”)\n18\n\nŠ My two purchases were made in 1986 and 1993. What the economy, interest rates, or the stock market\nmight do in the years immediately following – 1987 and 1994 – was of no importance to me in making\nthose investments.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 168
+    }
+  },
+  {
+    "text": "– was of no importance to me in making\nthose investments. I can’t remember what the headlines or pundits were saying at the time. Whatever the\nchatter, corn would keep growing in Nebraska and students would flock to NYU. There is one major difference between my two small investments and an investment in stocks. Stocks\nprovide you minute-to-minute valuations for your holdings whereas I have yet to see a quotation for either my farm\nor the New York real estate.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 169
+    }
+  },
+  {
+    "text": "quotation for either my farm\nor the New York real estate. It should be an enormous advantage for investors in stocks to have those wildly fluctuating valuations\nplaced on their holdings – and for some investors, it is.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 170
+    }
+  },
+  {
+    "text": "on their holdings – and for some investors, it is. After all, if a moody fellow with a farm bordering my\nproperty yelled out a price every day to me at which he would either buy my farm or sell me his – and those prices\nvaried widely over short periods of time depending on his mental state – how in the world could I be other than\nbenefited by his erratic behavior? If his daily shout-out was ridiculously low, and I had some spare cash, I would\nbuy his farm.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 171
+    }
+  },
+  {
+    "text": "and I had some spare cash, I would\nbuy his farm. If the number he yelled was absurdly high, I could either sell to him or just go on farming. Owners of stocks, however, too often let the capricious and often irrational behavior of their fellow owners\ncause them to behave irrationally as well.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 172
+    }
+  },
+  {
+    "text": "of their fellow owners\ncause them to behave irrationally as well. Because there is so much chatter about markets, the economy, interest\nrates, price behavior of stocks, etc., some investors believe it is important to listen to pundits – and, worse yet,\nimportant to consider acting upon their comments.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 173
+    }
+  },
+  {
+    "text": "– and, worse yet,\nimportant to consider acting upon their comments. Those people who can sit quietly for decades when they own a farm or apartment house too often become\nfrenetic when they are exposed to a stream of stock quotations and accompanying commentators delivering an\nimplied message of “Don’t just sit there, do something.” For these investors, liquidity is transformed from the\nunqualified benefit it should be to a curse.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 174
+    }
+  },
+  {
+    "text": "transformed from the\nunqualified benefit it should be to a curse. A “flash crash” or some other extreme market fluctuation can’t hurt an investor any more than an erratic\nand mouthy neighbor can hurt my farm investment. Indeed, tumbling markets can be helpful to the true investor if\nhe has cash available when prices get far out of line with values. A climate of fear is your friend when investing; a\neuphoric world is your enemy.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 175
+    }
+  },
+  {
+    "text": "is your friend when investing; a\neuphoric world is your enemy. During the extraordinary financial panic that occurred late in 2008, I never gave a thought to selling my\nfarm or New York real estate, even though a severe recession was clearly brewing. And, if I had owned 100% of a\nsolid business with good long-term prospects, it would have been foolish for me to even consider dumping it. So\nwhy would I have sold my stocks that were small participations in wonderful businesses?",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 176
+    }
+  },
+  {
+    "text": "sold my stocks that were small participations in wonderful businesses? True, any one of them\nmight eventually disappoint, but as a group they were certain to do well. Could anyone really believe the earth was\ngoing to swallow up the incredible productive assets and unlimited human ingenuity existing in America? * * * * * * * * * * * *\nWhen Charlie and I buy stocks – which we think of as small portions of businesses – our analysis is very\nsimilar to that which we use in buying entire businesses.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 177
+    }
+  },
+  {
+    "text": "very\nsimilar to that which we use in buying entire businesses. We first have to decide whether we can sensibly estimate\nan earnings range for five years out, or more. If the answer is yes, we will buy the stock (or business) if it sells at a\nreasonable price in relation to the bottom boundary of our estimate. If, however, we lack the ability to estimate\nfuture earnings – which is usually the case – we simply move on to other prospects.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 178
+    }
+  },
+  {
+    "text": "the case – we simply move on to other prospects. In the 54 years we have worked\ntogether, we have never foregone an attractive purchase because of the macro or political environment, or the views\nof other people. In fact, these subjects never come up when we make decisions. It’s vital, however, that we recognize the perimeter of our “circle of competence” and stay well inside of\nit. Even then, we will make some mistakes, both with stocks and businesses.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 179
+    }
+  },
+  {
+    "text": "we will make some mistakes, both with stocks and businesses. But they will not be the disasters that\noccur, for example, when a long-rising market induces purchases that are based on anticipated price behavior and a\ndesire to be where the action is. 19\n\nMost investors, of course, have not made the study of business prospects a priority in their lives. If wise,\nthey will conclude that they do not know enough about specific businesses to predict their future earning power.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 180
+    }
+  },
+  {
+    "text": "enough about specific businesses to predict their future earning power. I have good news for these non-professionals: The typical investor doesn’t need this skill. In aggregate,\nAmerican business has done wonderfully over time and will continue to do so (though, most assuredly, in\nunpredictable fits and starts). In the 20th Century, the Dow Jones Industrials index advanced from 66 to 11,497,\npaying a rising stream of dividends to boot.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 181
+    }
+  },
+  {
+    "text": "66 to 11,497,\npaying a rising stream of dividends to boot. The 21st Century will witness further gains, almost certain to be\nsubstantial. The goal of the non-professional should not be to pick winners – neither he nor his “helpers” can do\nthat – but should rather be to own a cross-section of businesses that in aggregate are bound to do well. A low-cost\nS&P 500 index fund will achieve this goal. That’s the “what” of investing for the non-professional. The “when” is also important.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 182
+    }
+  },
+  {
+    "text": "of investing for the non-professional. The “when” is also important. The main danger is\nthat the timid or beginning investor will enter the market at a time of extreme exuberance and then become\ndisillusioned when paper losses occur. (Remember the late Barton Biggs’ observation: “A bull market is like sex.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 183
+    }
+  },
+  {
+    "text": "late Barton Biggs’ observation: “A bull market is like sex. It\nfeels best just before it ends.”) The antidote to that kind of mistiming is for an investor to accumulate shares over a\nlong period and never to sell when the news is bad and stocks are well off their highs. Following those rules, the\n“know-nothing” investor who both diversifies and keeps his costs minimal is virtually certain to get satisfactory\nresults.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 184
+    }
+  },
+  {
+    "text": "keeps his costs minimal is virtually certain to get satisfactory\nresults. Indeed, the unsophisticated investor who is realistic about his shortcomings is likely to obtain better long-\nterm results than the knowledgeable professional who is blind to even a single weakness. If “investors” frenetically bought and sold farmland to each other, neither the yields nor prices of their\ncrops would be increased.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 185
+    }
+  },
+  {
+    "text": "neither the yields nor prices of their\ncrops would be increased. The only consequence of such behavior would be decreases in the overall earnings\nrealized by the farm-owning population because of the substantial costs it would incur as it sought advice and\nswitched properties. Nevertheless, both individuals and institutions will constantly be urged to be active by those who profit\nfrom giving advice or effecting transactions.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 186
+    }
+  },
+  {
+    "text": "active by those who profit\nfrom giving advice or effecting transactions. The resulting frictional costs can be huge and, for investors in\naggregate, devoid of benefit. So ignore the chatter, keep your costs minimal, and invest in stocks as you would in a\nfarm. My money, I should add, is where my mouth is: What I advise here is essentially identical to certain\ninstructions I’ve laid out in my will. One bequest provides that cash will be delivered to a trustee for my wife’s\nbenefit.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 187
+    }
+  },
+  {
+    "text": "cash will be delivered to a trustee for my wife’s\nbenefit. (I have to use cash for individual bequests, because all of my Berkshire shares will be fully distributed to\ncertain philanthropic organizations over the ten years following the closing of my estate.) My advice to the trustee\ncould not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P\n500 index fund.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 188
+    }
+  },
+  {
+    "text": "bonds and 90% in a very low-cost S&P\n500 index fund. (I suggest Vanguard’s.) I believe the trust’s long-term results from this policy will be superior to\nthose attained by most investors – whether pension funds, institutions or individuals – who employ high-fee\nmanagers. * * * * * * * * * * * *\nAnd now back to Ben Graham. I learned most of the thoughts in this investment discussion from Ben’s\nbook The Intelligent Investor, which I bought in 1949. My financial life changed with that purchase.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 189
+    }
+  },
+  {
+    "text": "bought in 1949. My financial life changed with that purchase. Before reading Ben’s book, I had wandered around the investing landscape, devouring everything written\non the subject. Much of what I read fascinated me: I tried my hand at charting and at using market indicia to predict\nstock movements. I sat in brokerage offices watching the tape roll by, and I listened to commentators. All of this\nwas fun, but I couldn’t shake the feeling that I wasn’t getting anywhere.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 190
+    }
+  },
+  {
+    "text": "I couldn’t shake the feeling that I wasn’t getting anywhere. In contrast, Ben’s ideas were explained logically in elegant, easy-to-understand prose (without Greek\nletters or complicated formulas). For me, the key points were laid out in what later editions labeled Chapters 8 and\n20. (The original 1949 edition numbered its chapters differently.) These points guide my investing decisions today.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 191
+    }
+  },
+  {
+    "text": "its chapters differently.) These points guide my investing decisions today. 20\n\nA couple of interesting sidelights about the book: Later editions included a postscript describing an\nunnamed investment that was a bonanza for Ben. Ben made the purchase in 1948 when he was writing the first\nedition and – brace yourself – the mystery company was GEICO. If Ben had not recognized the special qualities of\nGEICO when it was still in its infancy, my future and Berkshire’s would have been far different.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 192
+    }
+  },
+  {
+    "text": "infancy, my future and Berkshire’s would have been far different. The 1949 edition of the book also recommended a railroad stock that was then selling for $17 and earning\nabout $10 per share. (One of the reasons I admired Ben was that he had the guts to use current examples, leaving\nhimself open to sneers if he stumbled.) In part, that low valuation resulted from an accounting rule of the time that\nrequired the railroad to exclude from its reported earnings the substantial retained earnings of affiliates.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 193
+    }
+  },
+  {
+    "text": "from its reported earnings the substantial retained earnings of affiliates. The recommended stock was Northern Pacific, and its most important affiliate was Chicago, Burlington\nand Quincy. These railroads are now important parts of BNSF (Burlington Northern Santa Fe), which is today fully\nowned by Berkshire. When I read the book, Northern Pacific had a market value of about $40 million. Now its\nsuccessor (having added a great many properties, to be sure) earns that amount every four days.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 194
+    }
+  },
+  {
+    "text": "properties, to be sure) earns that amount every four days. I can’t remember what I paid for that first copy of The Intelligent Investor. Whatever the cost, it would\nunderscore the truth of Ben’s adage: Price is what you pay, value is what you get. Of all the investments I ever\nmade, buying Ben’s book was the best (except for my purchase of two marriage licenses).",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 195
+    }
+  },
+  {
+    "text": "the best (except for my purchase of two marriage licenses). * * * * * * * * * * * *\nLocal and state financial problems are accelerating, in large part because public entities promised pensions\nthey couldn’t afford. Citizens and public officials typically under-appreciated the gigantic financial tapeworm that\nwas born when promises were made that conflicted with a willingness to fund them. Unfortunately, pension\nmathematics today remain a mystery to most Americans.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 196
+    }
+  },
+  {
+    "text": "them. Unfortunately, pension\nmathematics today remain a mystery to most Americans. Investment policies, as well, play an important role in these problems. In 1975, I wrote a memo to\nKatharine Graham, then chairman of The Washington Post Company, about the pitfalls of pension promises and the\nimportance of investment policy. That memo is reproduced on pages 118 - 136. During the next decade, you will read a lot of news – bad news – about public pension plans.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 197
+    }
+  },
+  {
+    "text": "of news – bad news – about public pension plans. I hope my\nmemo is helpful to you in understanding the necessity for prompt remedial action where problems exist. The Annual Meeting\nThe annual meeting will be held on Saturday, May 3rd at the CenturyLink Center. Carrie Sova, our talented\nringmaster, will be in charge, and all of our headquarters group will pitch in to help her. Our gang both does a\nbetter job than professional event planners would and – yes – saves us money.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 198
+    }
+  },
+  {
+    "text": "event planners would and – yes – saves us money. CenturyLink’s doors will open at 7 a.m., and at 7:30 we will have our third International Newspaper\nTossing Challenge. Our target will be a Clayton Home porch, precisely 35 feet from the throwing line. I tossed\nabout 500,000 papers when I was a teenager, so I think I’m pretty good. Challenge me: I’ll buy a Dilly Bar for\nanyone who lands his or her throw closer to the doorstep than I do.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 199
+    }
+  },
+  {
+    "text": "or her throw closer to the doorstep than I do. The papers will be 36 to 42 pages, and you must\nfold them yourself (no rubber bands allowed). At 8:30, a new Berkshire movie will be shown. An hour later, we will start the question-and-answer\nperiod, which (with a break for lunch at CenturyLink’s stands) will last until 3:30. After a short recess, Charlie and\nI will convene the annual meeting at 3:45. If you decide to leave during the day’s question periods, please do so\nwhile Charlie is talking.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 200
+    }
+  },
+  {
+    "text": "the day’s question periods, please do so\nwhile Charlie is talking. 21\n\nThe best reason to exit, of course, is to shop. We’ll assist you by filling the 194,300-square-foot hall that\nadjoins the meeting area with products from dozens of Berkshire subsidiaries. Last year, you did your part, and\nmost locations racked up record sales.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 201
+    }
+  },
+  {
+    "text": "you did your part, and\nmost locations racked up record sales. In a nine-hour period, we sold 1,062 pairs of Justin boots (that’s a pair every\n32 seconds), 12,792 pounds of See’s candy, 11,162 Quikut knives (21 knives per minute) and 6,344 pairs of Wells\nLamont gloves, always a hot item. This year, Charlie and I will have competing ketchup bottles for sale. Naturally,\nthe one with Charlie’s picture will be heavily discounted. But, if you help, my bottle will outsell his.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 202
+    }
+  },
+  {
+    "text": "discounted. But, if you help, my bottle will outsell his. This is\nimportant, so don’t let me down. Brooks, our running-shoe company, will again have a special commemorative shoe to offer at the meeting. After you purchase a pair, wear them the next day at our second annual “Berkshire 5K,” an 8 a.m. race starting at\nthe CenturyLink. Full details for participating will be included in the Visitor’s Guide that you will receive with\nyour tickets for the meeting.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 203
+    }
+  },
+  {
+    "text": "Guide that you will receive with\nyour tickets for the meeting. Entrants will find themselves running alongside many of Berkshire’s managers,\ndirectors and associates. GEICO will have a booth in the shopping area, staffed by a number of its top counselors from around the\ncountry. Stop by for a quote. In most cases, GEICO will be able to give you a shareholder discount (usually 8%). This special offer is permitted by 44 of the 51 jurisdictions in which we operate.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 204
+    }
+  },
+  {
+    "text": "by 44 of the 51 jurisdictions in which we operate. (One supplemental point: The\ndiscount is not additive if you qualify for another, such as that given certain groups.) Bring the details of your\nexisting insurance and check out whether we can save you money. For at least half of you, I believe we can. Be sure to visit the Bookworm. It will carry about 35 books and DVDs, among them a couple of new\ntitles. One is Max Olson’s compilation of Berkshire letters going back to 1965.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 205
+    }
+  },
+  {
+    "text": "Max Olson’s compilation of Berkshire letters going back to 1965. The book includes an index that I\nfind particularly useful, specifying page numbers for individuals, companies and subject matter. I also recommend\nForty Chances by my son, Howard. You’ll enjoy it. If you are a big spender – or aspire to become one – visit Signature Flight Support on the east side of the\nOmaha airport between noon and 5 p.m. on Saturday. There, we will have a fleet of NetJets aircraft sure to set your\npulse racing.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 206
+    }
+  },
+  {
+    "text": "a fleet of NetJets aircraft sure to set your\npulse racing. Come by bus; leave by private jet. Live a little. An attachment to the proxy material that is enclosed with this report explains how you can obtain the\ncredential you will need for admission to the meeting and other events. Airlines have sometimes jacked up prices\nfor the Berkshire weekend. If you are coming from far away, compare the cost of flying to Kansas City versus\nOmaha.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 207
+    }
+  },
+  {
+    "text": "away, compare the cost of flying to Kansas City versus\nOmaha. The drive between the two cities is about 2 1⁄2 hours, and it may be that Kansas City can save you\nsignificant money, particularly if you had planned to rent a car in Omaha. Spend the savings with us. At Nebraska Furniture Mart, located on a 77-acre site on 72nd Street between Dodge and Pacific, we will\nagain be having “Berkshire Weekend” discount pricing.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 208
+    }
+  },
+  {
+    "text": "and Pacific, we will\nagain be having “Berkshire Weekend” discount pricing. Last year in the week surrounding the meeting, the store\ndid $40.2 million of business, breaking its previous record by 12%. It also set a single day record of $8.2 million on\nSaturday, selling nearly $1 million of mattresses alone. To obtain the Berkshire discount at NFM, you must make your purchases between Tuesday, April 29th and\nMonday, May 5th inclusive, and also present your meeting credential.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 209
+    }
+  },
+  {
+    "text": "and\nMonday, May 5th inclusive, and also present your meeting credential. The period’s special pricing will even apply\nto the products of several prestigious manufacturers that normally have ironclad rules against discounting but\nwhich, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday. On Saturday this\nyear, from 5:30 p.m.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 210
+    }
+  },
+  {
+    "text": "6 p.m. on Sunday. On Saturday this\nyear, from 5:30 p.m. to 8 p.m., NFM is having a picnic to which you are all invited. At Borsheims, we will again have two shareholder-only events. The first will be a cocktail reception from\n6 p.m. to 9 p.m. on Friday, May 2nd. The second, the main gala, will be held on Sunday, May 4 th, from 9 a.m. to 4\np.m. On Saturday, we will be open until 6 p.m. In recent years, our three-day volume has far exceeded sales in all\nof December, normally a jeweler’s best month.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 211
+    }
+  },
+  {
+    "text": "exceeded sales in all\nof December, normally a jeweler’s best month. 22\n\nAbout 1:15 p.m. on Sunday, I will begin clerking at Borsheims. Ask for my “Crazy Warren” quote on the\nitem of your choice. As I get older, my pricing gets ever more ridiculous. Come take advantage of me. We will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore,\nshareholder prices will be available from Monday, April 28th through Saturday, May 10th.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 212
+    }
+  },
+  {
+    "text": "be available from Monday, April 28th through Saturday, May 10th. During that period,\nplease identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that\nshows you are a Berkshire holder. On Sunday, in the mall outside of Borsheims, a blindfolded Patrick Wolff, twice U.S. chess champion,\nwill take on all comers – who will have their eyes wide open – in groups of six. Nearby, Norman Beck, a\nremarkable magician from Dallas, will bewilder onlookers.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 213
+    }
+  },
+  {
+    "text": "Nearby, Norman Beck, a\nremarkable magician from Dallas, will bewilder onlookers. Additionally, we will have Bob Hamman and Sharon\nOsberg, two of the world’s top bridge experts, available to play bridge with our shareholders on Sunday afternoon. Don’t play them for money. My friend, Ariel Hsing, will be in the mall as well on Sunday, taking on challengers at table tennis. Last\nyear, she made Americans – and especially me – proud with her performance at the Olympics.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 214
+    }
+  },
+  {
+    "text": "especially me – proud with her performance at the Olympics. I met Ariel when she was nine and even then I was unable to score a point against her. Now, she’s a\nfreshman at Princeton and the U.S. Women’s Champion. If you don’t mind embarrassing yourself, test your skills\nagainst her, beginning at 1 p.m. Bill Gates and I will lead off and try to soften her up. Gorat’s and Piccolo’s will again be open exclusively for Berkshire shareholders on Sunday, May 4th.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 215
+    }
+  },
+  {
+    "text": "be open exclusively for Berkshire shareholders on Sunday, May 4th. Both\nwill be serving until 10 p.m., with Gorat’s opening at 1 p.m. and Piccolo’s opening at 4 p.m. These restaurants are\nmy favorites, and I will eat at both of them on Sunday evening. Remember: To make a reservation at Gorat’s, call\n402-551-3733 on April 1st (but not before) and for Piccolo’s call 402-342-9038. At Piccolo’s order a giant root beer\nfloat for dessert. Only sissies get the small one.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 216
+    }
+  },
+  {
+    "text": "root beer\nfloat for dessert. Only sissies get the small one. We will again have the same three financial journalists lead the question-and-answer period at the\nmeeting, asking Charlie and me questions that shareholders have submitted to them by e-mail. The journalists and\ntheir e-mail addresses are: Carol Loomis, of Fortune, who may be e-mailed at cloomis@fortunemail.com; Becky\nQuick, of CNBC, at BerkshireQuestions@cnbc.com; and Andrew Ross Sorkin, of The New York Times, at\narsorkin@nytimes.com.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 217
+    }
+  },
+  {
+    "text": "and Andrew Ross Sorkin, of The New York Times, at\narsorkin@nytimes.com. From the questions submitted, each journalist will choose the six he or she decides are the most interesting\nand important. The journalists have told me your question has the best chance of being selected if you keep it\nconcise, avoid sending it in at the last moment, make it Berkshire-related and include no more than two questions in\nany e-mail you send them.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 218
+    }
+  },
+  {
+    "text": "no more than two questions in\nany e-mail you send them. (In your e-mail, let the journalist know if you would like your name mentioned if your\nquestion is selected.)\nWe will also have a panel of three analysts who follow Berkshire. This year the insurance specialist will\nbe Jay Gelb of Barclays. Questions that deal with our non-insurance operations will come from Jonathan Brandt of\nRuane, Cunniff & Goldfarb. And we will again have a credentialed bear on Berkshire.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 219
+    }
+  },
+  {
+    "text": "And we will again have a credentialed bear on Berkshire. We would like to hear from applicants who are\nshort Berkshire (please include evidence of your position). The three analysts will bring their own Berkshire-\nspecific questions and alternate with the journalists and the audience in asking them. Charlie and I believe that all shareholders should have access to new Berkshire information\nsimultaneously and should also have adequate time to analyze it.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 220
+    }
+  },
+  {
+    "text": "information\nsimultaneously and should also have adequate time to analyze it. That’s why we try to issue financial information\nlate on Fridays or early on Saturdays and why our annual meeting is held on Saturdays. We do not talk one-on-one\nto large institutional investors or analysts, but rather treat all shareholders the same. Our hope is that the journalists\nand analysts will ask questions that further educate our owners about their investment.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 221
+    }
+  },
+  {
+    "text": "ask questions that further educate our owners about their investment. 23\n\nNeither Charlie nor I will get so much as a clue about the questions to be asked. We know the journalists\nand analysts will come up with some tough ones, and that’s the way we like it. All told, we expect at least\n54 questions, which will allow for six from each analyst and journalist and 18 from the audience. If there is some\nextra time, we will take more from the audience.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 222
+    }
+  },
+  {
+    "text": "is some\nextra time, we will take more from the audience. Audience questioners will be determined by drawings that will\ntake place at 8:15 a.m. at each of the 15 microphones located in the arena and main overflow room. * * * * * * * * * * * *\nFor good reason, I regularly extol the accomplishments of our operating managers. They are truly All-\nStars, who run their businesses as if they were the only asset owned by their families.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 223
+    }
+  },
+  {
+    "text": "if they were the only asset owned by their families. I believe the mindset of our\nmanagers to be as shareholder-oriented as can be found in the universe of large publicly-owned companies. Most\nhave no financial need to work; the joy of hitting business “home runs” means as much to them as their paycheck. Equally important, however, are the 24 men and women who work with me at our corporate office.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 224
+    }
+  },
+  {
+    "text": "and women who work with me at our corporate office. This\ngroup efficiently deals with a multitude of SEC and other regulatory requirements, files a 23,000-page Federal\nincome tax return as well as state and foreign returns, responds to countless shareholder and media inquiries, gets\nout the annual report, prepares for the country’s largest annual meeting, coordinates the Board’s activities – and the\nlist goes on and on.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 225
+    }
+  },
+  {
+    "text": "the Board’s activities – and the\nlist goes on and on. They handle all of these business tasks cheerfully and with unbelievable efficiency, making my life easy\nand pleasant. Their efforts go beyond activities strictly related to Berkshire: Last year they dealt with the 40\nuniversities (selected from 200 applicants) who sent students to Omaha for a Q&A day with me.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 226
+    }
+  },
+  {
+    "text": "sent students to Omaha for a Q&A day with me. They also handle\nall kinds of requests that I receive, arrange my travel, and even get me hamburgers and French fries (smothered in\nketchup, of course) for lunch. No CEO has it better; I truly do feel like tap dancing to work every day. In closing, I think it’s become appropriate to ignore our “no pictures” policy and let you view our\nremarkable home-office crew. Below is a photo from our Christmas lunch.",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 227
+    }
+  },
+  {
+    "text": "home-office crew. Below is a photo from our Christmas lunch. Two people couldn’t make it; otherwise\nyou are looking at all of those who staff Berkshire’s headquarters. They are truly miracle-workers. Next year’s letter will review our 50 years at Berkshire and speculate a bit about the next 50. In the\nmeantime, come to Omaha on May 3rd and enjoy our Woodstock for Capitalists. February 28, 2014\nWarren E. Buffett\nChairman of the Board\nA power lunch, Berkshire-style\n24",
+    "metadata": {
+      "source": "2013.txt",
+      "year": "2013",
+      "chunkIndex": 228
+    }
+  }
+]
