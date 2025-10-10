@@ -2,7 +2,7 @@
 import { Mastra } from '@mastra/core/mastra';
 import { PgVector, PostgresStore } from '@mastra/pg';
 import { PinoLogger } from '@mastra/loggers';
-import { berkshireAgent } from './agents/berkshire-agent';
+import { ragAgent  } from './agents/mastra-rag-agent';
 
 const PG_CONNECTION_STRING = 
   process.env.DATABASE_URL! ;
@@ -20,7 +20,7 @@ export const mastra = new Mastra({
   workflows: {},
   
   agents: {
-    'berkshire-agent': berkshireAgent,
+    'berkshire-agent': ragAgent ,
   },
   
   storage: pgStorage,
